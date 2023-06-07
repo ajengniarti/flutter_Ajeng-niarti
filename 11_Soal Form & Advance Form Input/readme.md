@@ -1,0 +1,3 @@
+Untuk kali ini mempelajari tentang Flutter Form (Form Input Button) and Advance Form .Untuk materi bagian Flutter Form (Form Input Button) adalah sebuah widget yang digunakan untuk membuat dan mengelola formulir di aplikasi Flutter.
+Pada widget ini kita bisa menambahkan berbagai inputan seperti teks, angka, pilihan, yang dimana nantinya datanya akan dikirim ke server. 
+Lalu untuk materi Advanced Form dalam konteks Flutter mengacu pada penggunaan fitur-fitur yang lebih kompleks dan khusus dalam mengelola dan memvalidasi formulir. Contoh beberapa fitur yang termasuk pada Advance Form Checkbox, Radio Button, Drop-down Menu, Pemilihan Tanggal, Validasi dll.
